@@ -6,7 +6,7 @@ st.title(" Hyper-Powered Website Scraper Crew ")
 st.markdown("Analyze website content with LLM agents using **Hyperbrowser** and **crewAI**.")
 
 url = st.text_input(
-    "Enter the URL to analyze:",
+    "Enter the URL to scrape:",
     value="https://www.wired.com/story/how-to-fix-your-own-gadgets-and-why-you-should/"
 )
 
