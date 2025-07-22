@@ -61,8 +61,6 @@ HYPERBROWSER_API_KEY=your_hyperbrowser_api_key_here
 3. **Pull a suitable Ollama model**:
    Recommended:
    ```bash
-   ollama pull phi3:mini
-   # or for better quality (slower on CPU)
    ollama pull llama3:3b
    ```
 
