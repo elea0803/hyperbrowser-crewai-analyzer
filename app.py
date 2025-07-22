@@ -1,8 +1,8 @@
 import streamlit as st
 from main import run_website_analysis
 
-st.set_page_config(page_title="Website Analyzer Crew", layout="centered")
-st.title(" Hyper-Powered Website Analyzer Crew ")
+st.set_page_config(page_title="Website Scraper Crew", layout="centered")
+st.title(" Hyper-Powered Website Scraper Crew ")
 st.markdown("Analyze website content with LLM agents using **Hyperbrowser** and **crewAI**.")
 
 url = st.text_input(
