@@ -15,7 +15,7 @@ An LLM-driven **web scraper** built using [crewAI](https://docs.crewai.com), [Hy
 - Python 3.11.8+
 - Streamlit UI
 - HyperbrowserLoadTool
-- Ollama LLM (llama3.2:3b recommended)
+- Ollama LLM (llama3:latest)
 - crewAI framework (hierarchical workflow)
 
 ---
@@ -61,7 +61,7 @@ HYPERBROWSER_API_KEY=your_hyperbrowser_api_key_here
 3. **Pull a suitable Ollama model**:
    Recommended:
    ```bash
-   ollama pull llama3:3b
+   ollama pull llama3:latest
    ```
 
 4. **Start Ollama server (if not already running)**:
