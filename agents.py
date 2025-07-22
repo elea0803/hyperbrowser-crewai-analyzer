@@ -2,7 +2,7 @@ from crewai import Agent
 from langchain_ollama import ChatOllama
 from tool import hyperbrowser_tool
 
-MODEL_NAME = "ollama/llama3.2:3b"
+MODEL_NAME = "ollama/llama3:latest"
 OLLAMA_BASE_URL = "http://localhost:11434"
 MAX_RETRIES = 2
 
