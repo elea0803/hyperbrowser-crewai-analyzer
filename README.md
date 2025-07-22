@@ -1,4 +1,4 @@
-# 🕸️ Website Scraper Crew
+🌐 Web Content Scraper Crew 
 
 An LLM-driven **web scraper** built using [crewAI](https://docs.crewai.com), [Hyperbrowser](https://docs.crewai.com/en/tools/web-scraping/hyperbrowserloadtool), and [Ollama](https://ollama.com/). This project scrapes any public webpage, analyzes its content, and outputs a report with summaries, key topics, and sentiment — all handled by autonomous agents.
 
