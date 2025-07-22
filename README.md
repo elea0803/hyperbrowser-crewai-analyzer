@@ -15,7 +15,7 @@ An LLM-driven **web scraper** built using [crewAI](https://docs.crewai.com), [Hy
 - Python 3.11.8+
 - Streamlit UI
 - HyperbrowserLoadTool
-- Ollama LLM (phi3:mini or llama3.2:3b recommended)
+- Ollama LLM (llama3.2:3b recommended)
 - crewAI framework (hierarchical workflow)
 
 ---
